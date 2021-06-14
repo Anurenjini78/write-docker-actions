@@ -4,7 +4,7 @@
 
 In this repository we will be diving into the world of writing GitHub Actions! I will guide you through the process of writing a custom Docker based GitHub Actions.
 
-You may be asking yourself, "is Docker the only way to create custom GitHub Actions?"
+You may be asking yourself, "is Docker the only way eto create custom GitHub Actions?"
 
 Currently, there are **two** supported ways to create your own GitHub Actions:
 
